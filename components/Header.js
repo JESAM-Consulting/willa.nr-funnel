@@ -7,7 +7,7 @@ export default function Header() {
       <title>willa.nr</title>
       <meta
         name="description"
-        content="willa.nr - individuelle Solar-Beratung."
+        content="willa.nr.8 - individuelle Solar-Beratung."
       />
 
       <link rel="icon" href="/favicon.png" />
