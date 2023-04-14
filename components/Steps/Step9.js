@@ -131,7 +131,7 @@ export default function Step9() {
       interesse_finanzierung: userData.step4,
       dachform: userData.step3,
       art_heizung: userData.step5,
-      leadherkunft: "https://willanr-funnel.netlify.app",
+      leadherkunft: "https://willa.nr.8.solar-pvcheck.de",
       Bemerkungen: calculatedDa,
 
     };
@@ -162,7 +162,7 @@ export default function Step9() {
       interesse_finanzierung: userData.step4,
       dachform: userData.step3,
       art_heizung: userData.step5,
-      leadherkunft: "https://willanr-funnel.netlify.app",
+      leadherkunft: "https://willa.nr.8.solar-pvcheck.de",
       Bemerkungen: calculatedDa,
       project: "willanr"
     };
